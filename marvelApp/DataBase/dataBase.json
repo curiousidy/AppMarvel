@@ -1,0 +1,30 @@
+
+{
+    "comics":[
+        {
+            "title":"Spiderman",
+            "information":"Hombre que picó una araña y trepa por las paredes",
+            "image":"superman.png"
+        },
+        {
+            "title":"Thor",
+            "information":"Dios del trueno que habita en Asgard",
+            "image":"thor.png"
+        }, {
+            "title":"Capitana Marvel",
+            "information":"Mujer más poderosa del universo Marvel",
+            "image":"capitanamarvel.png"
+        }, {
+            "title":"SpiderWoman",
+            "information":"Mujer que picó Spiderman.",
+            "image":"spiderwoman.jpeg"
+        }, {
+            "title":"X-23",
+            "information":"La hija perdida de Logan",
+            "image":"x-23.png"
+        }
+        
+    ]
+    
+    
+}
